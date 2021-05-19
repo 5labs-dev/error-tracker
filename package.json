@@ -1,15 +1,24 @@
 {
   "name": "@jdreldev/error-tracker",
   "version": "1.0.0",
-  "description": "JDREL ErorTracker",
+  "description": "JDREL ErrorTracker",
   "main": "index.ts",
+  "dependencies": {
+    "follow-redirects": "^1.14.1",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjdrel2001/error-tracker.git"
+  },
   "author": "jdreldev",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^0.21.1"
-  }
+  "bugs": {
+    "url": "https://github.com/devjdrel2001/error-tracker/issues"
+  },
+  "homepage": "https://github.com/devjdrel2001/error-tracker#readme"
 }
