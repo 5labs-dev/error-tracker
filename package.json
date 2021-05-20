@@ -1,5 +1,5 @@
 {
-  "name": "@jdreldev/error-tracker",
+  "name": "@devjdrel2001/error-tracker",
   "version": "1.0.0",
   "description": "JDREL ErrorTracker",
   "main": "index.ts",
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/devjdrel2001/error-tracker.git"
   },
-  "author": "jdreldev",
+  "author": "devjdrel2001",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/devjdrel2001/error-tracker/issues"
