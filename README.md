@@ -6,12 +6,12 @@
 
 Adicione o pacote ao seu projeto:
 ```bash
-$ npm install e76aa0dbb2b3f9aeefb78f6bdbecfaab
+$ yarn add @devjdrel2001/error-tracker
 ```
 
 Utilize onde quiser:
 ```ts
-import {NewAPIError} from 'jdrel-error-tracker'
+import { NewAPIError } from '@devjdrel2001/error-tracker'
 
 NewAPIError(errorData)
 ```
