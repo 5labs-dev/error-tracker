@@ -1,8 +1,9 @@
 {
   "name": "@devjdrel2001/error-tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JDREL ErrorTracker",
   "main": "index.ts",
+  "type": "module",
   "dependencies": {
     "follow-redirects": "^1.14.1",
     "axios": "^0.21.1"
