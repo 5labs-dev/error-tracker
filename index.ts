@@ -6,7 +6,7 @@ const ApiCentral = axios.create({
 
 
 export function NewAPIError(errorData: ErrorDataModel) {
-    ApiCentral.post('/', {
+    ApiCentral.post('/log/add', {
         resource: 'log',
         errorData
     });
